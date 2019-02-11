@@ -1,28 +1,3 @@
 {
-  "contacts": [
-    {
-      "id": "1",
-      "name": "Stephen Clark",
-      "phoneNumber": "732-298-0869",
-      "address": "1153 Brookside Drive, Franklin, TN"
-    },
-    {
-      "name": "Superman",
-      "phoneNumber": "732-887-0640",
-      "address": "Krypton",
-      "id": "BKT55Nk"
-    },
-    {
-      "name": "Elizabeth Lefavour",
-      "phoneNumber": "1153 Brookside Drive",
-      "address": "732-887-0640",
-      "id": "kx0IXJP"
-    },
-    {
-      "name": "",
-      "phoneNumber": "",
-      "address": "",
-      "id": "wrikPfL"
-    }
-  ]
+  "contacts": []
 }
